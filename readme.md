@@ -5,7 +5,7 @@
 
 # Instructions
 
-Build a Shopping cart function to calculate the totals price of an array of items. The function should be able to take
+Build a Shopping cart function to calculate the total price of an array of items. The function should be able to take
 two arguments, the first an array of item objects e.g:
 
 ```
